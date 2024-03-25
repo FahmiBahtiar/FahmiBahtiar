@@ -65,6 +65,14 @@
     <img src="https://status.ivao.aero/704291.png"/>
 </p>
 <p align="center">
+ <a href="https://ivao.aero/Member.aspx?ID=704291" target="blank">
+  <img src="https://www.ivao.aero/data/images/ratings/pilot/4.gif"/>
+ </a>
+  <a href="https://ivao.aero/Member.aspx?ID=704291" target="blank">
+  <img src="https://www.ivao.aero/data/images/awards/H2.gif"/>
+ </a>
+</p>
+<p align="center">
   <a href="https://ivao.aero/Member.aspx?ID=704291" target="blank">
   <img src="https://www.ivao.aero/data/images/awards/WV.gif"/>
  </a>
