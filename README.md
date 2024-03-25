@@ -86,6 +86,9 @@
     <a href="https://ivao.aero/Member.aspx?ID=704291" target="blank">
  <img src="https://www.ivao.aero/data/images/awards/F1.gif"/>
  </a>
+     <a href="https://ivao.aero/Member.aspx?ID=704291" target="blank">
+ <img src="https://www.ivao.aero/data/images/awards/S1.gif"/>
+ </a>
  
 </p>
 
