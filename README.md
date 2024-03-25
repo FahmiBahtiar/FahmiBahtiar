@@ -61,16 +61,28 @@
     <img src="https://status.ivao.aero/704291.png"/>
 </p>
 <p align="center">
-  <a href="https://ivao.aero/704291" target="blank">
+  <a href="https://ivao.aero/Member.aspx?ID=704291" target="blank">
   <img src="https://www.ivao.aero/data/images/awards/WV.gif"/>
  </a>
+   <a href="https://ivao.aero/Member.aspx?ID=704291" target="blank">
+ <img src="https://www.ivao.aero/data/images/awards/LH.gif"/>
+ </a>
+   <a href="https://ivao.aero/Member.aspx?ID=704291" target="blank">
+ <img src="https://www.ivao.aero/data/images/awards/25OW.gif"/>
+ </a>
+   <a href="https://ivao.aero/Member.aspx?ID=704291" target="blank">
+ <img src="https://www.ivao.aero/data/images/awards/MSA1.gif"/>
+ </a>
+   <a href="https://ivao.aero/Member.aspx?ID=704291" target="blank">
+ <img src="https://www.ivao.aero/data/images/awards/FW.gif"/>
+ </a>
+   <a href="https://ivao.aero/Member.aspx?ID=704291" target="blank">
+ <img src="https://www.ivao.aero/data/images/awards/25AW.gif"/>
+ </a>
+    <a href="https://ivao.aero/Member.aspx?ID=704291" target="blank">
+ <img src="https://www.ivao.aero/data/images/awards/F1.gif"/>
+ </a>
  
- <img src="[https://ivao.aero/704291](https://www.ivao.aero/data/images/awards/LH.gif)"/>
- <img src="[https://ivao.aero/704291](https://www.ivao.aero/data/images/awards/25OW.gif)"/>
- <img src="[https://ivao.aero/704291](https://www.ivao.aero/data/images/awards/MSA1.gif)"/>
- <img src="[https://ivao.aero/704291](https://www.ivao.aero/data/images/awards/FW.gif)"/>
- <img src="[https://ivao.aero/704291](https://www.ivao.aero/data/images/awards/25AW.gif)"/>
- <img src="[https://ivao.aero/704291](https://www.ivao.aero/data/images/awards/F1.gif)"/>
 </p>
 
 <p align="center">
