@@ -59,9 +59,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/FahmiBahtiar">
-    <img src="https://status.ivao.aero/704291.png&theme=radical&border=7F3FBF&background=0D1117" alt="Fahmi's Ivao streak"/>
-  </a>
+    <img src="https://status.ivao.aero/704291.png&theme=radical&border=7F3FBF&background=0D1117"/>
 </p>
 
 <p align="center">
