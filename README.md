@@ -60,6 +60,12 @@
 
 <p align="center">
   <a href="https://github.com/FahmiBahtiar">
+    <img src="https://status.ivao.aero/704291.png&theme=radical&border=7F3FBF&background=0D1117" alt="Fahmi's Ivao streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FahmiBahtiar">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahmiBahtiar&theme=radical&border=7F3FBF&background=0D1117" alt="Fahmi's GitHub streak"/>
   </a>
 </p>
@@ -77,4 +83,4 @@
 </a>
 
 
-![Chirag's Graph](https://github-readme-activity-graph.vercel.app/graph?username=chiragjain307&custom_title=Chirag's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Fahmi's Graph](https://github-readme-activity-graph.vercel.app/graph?username=FahmiBahtiar&custom_title=Chirag's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
