@@ -59,6 +59,7 @@
 ## Ivao Information -
 <hr/>
 <br/>
+
 <p align="center">
     <img src="https://status.ivao.aero/704291.png"/>
 </p>
@@ -88,6 +89,7 @@
 </p>
 
 <br/>
+
 ## Github Information -
 <hr/>
 <br/>
