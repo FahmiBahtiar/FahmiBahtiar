@@ -55,6 +55,8 @@
 <p><a href="https://www.buymeacoffee.com/chiragjain"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chiragjain" /></a></p><br><br>
 -->
 <br/>
+
+## Ivao Information -
 <hr/>
 <br/>
 <p align="center">
@@ -84,6 +86,12 @@
  </a>
  
 </p>
+
+<br/>
+## Github Information -
+<hr/>
+<br/>
+
 
 <p align="center">
   <a href="https://github.com/FahmiBahtiar">
