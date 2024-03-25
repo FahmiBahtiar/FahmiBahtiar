@@ -61,7 +61,10 @@
     <img src="https://status.ivao.aero/704291.png"/>
 </p>
 <p align="center">
- <img src="https://www.ivao.aero/data/images/awards/WV.gif"/>
+  <a href="https://ivao.aero/704291" target="blank">
+  <img src="https://www.ivao.aero/data/images/awards/WV.gif"/>
+ </a>
+ 
  <img src="[https://ivao.aero/704291](https://www.ivao.aero/data/images/awards/LH.gif)"/>
  <img src="[https://ivao.aero/704291](https://www.ivao.aero/data/images/awards/25OW.gif)"/>
  <img src="[https://ivao.aero/704291](https://www.ivao.aero/data/images/awards/MSA1.gif)"/>
