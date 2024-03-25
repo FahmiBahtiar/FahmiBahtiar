@@ -60,13 +60,13 @@
 
 <p align="center">
   <a href="https://github.com/FahmiBahtiar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chiragjain307&theme=radical&border=7F3FBF&background=0D1117" alt="Chirag's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahmiBahtiar&theme=radical&border=7F3FBF&background=0D1117" alt="Fahmi's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/FahmiBahtiar">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chiragjain307&theme=radical" alt="Chirag's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FahmiBahtiar&theme=radical" alt="Fahmi's GitHub Contribution"/>
   </a>
 </p>
 
