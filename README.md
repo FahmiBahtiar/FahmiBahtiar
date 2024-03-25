@@ -59,7 +59,7 @@
 <br/>
 
 <p align="center">
-    <img src="https://status.ivao.aero/704291.png&theme=radical&border=7F3FBF&background=0D1117"/>
+    <img src="https://status.ivao.aero/704291.png"/>
 </p>
 
 <p align="center">
