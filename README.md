@@ -19,6 +19,11 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white"/>
   </a> 
 </p>
+<p align="center">
+    <a href="https://discord.com/users/467600406000697354" target="_blank" rel="noreferrer">
+        <img align="center" src="https://lanyard.cnrad.dev/api/467600406000697354?borderRadius=20px&theme=dark" alt="ryzz" /> 
+    </a>
+</p>
 <br />
 
 
